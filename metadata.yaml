@@ -1,5 +1,8 @@
 _repo: Scarhaven-Keep_9807
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fletcher, J. S. (Joseph Smith)
@@ -12,6 +15,8 @@ creator:
 description: When famed actor Bassett Oliver fails to show up for a rehearsal, aspiring
   playwright Richard Copplestone uncovers a mystery when he is sent to the small village
   of Scarhaven on the northern coast of England to trace the actor's movements.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9807#Scarhaven-Keep
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
